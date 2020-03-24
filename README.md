@@ -13,3 +13,7 @@ This Repository will be used to maintain/ aware people about KG for Corvid-19
 # Tools:
 #### Neo4j (My First Graph Database Love!)
 #### Python (Flask)
+
+# Graph Model
+
+<img src= "https://github.com/Siraj1munir/KG_to_the_rescue_corvid-19/blob/master/Graph_model_for_KG_NEO4j.jpg">
