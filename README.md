@@ -1,5 +1,5 @@
-# Knowledge Graph To The Rescue Corvid-19
-This Repository will be used to maintain/ aware people about KG for Corvid-19
+# Knowledge Graph To The Rescue Covid-19
+This Repository will be used to maintain/ aware people about KG for Covid-19
 ### Currently, I'm working with team where we have multiple projects. My target is to make a Semantic Query Engine backed with Knowledge Graph.
 ### Step 1:
 <ul><li> Grab and integrate data sources and enrich Knowledge in Graph</li></ul>
