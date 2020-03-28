@@ -17,3 +17,6 @@ This Repository will be used to maintain/ aware people about KG for Covid-19
 # Graph Model
 
 <img src= "https://github.com/Siraj1munir/KG_to_the_rescue_covid-19/blob/master/Graph_model_for_KG_NEO4j_Update.jpg">
+
+# Project Introduction
+[KG To The Rescue Video Introduction!](https://github.com/Siraj1munir/KG_to_the_rescue_covid-19/blob/master/Intro_to_project.mp4 "KG To The Rescue")
