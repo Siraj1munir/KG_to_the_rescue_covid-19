@@ -46,3 +46,8 @@ Similarly can find Deaths/fitalities
 Trackdown Location status in Date wise manner:
 MATCH (n:Location) WHERE n.Location_Name= "Pakistan" AND n.date= "2020-03-20" RETURN n 
 ~~~
+
+# Data Sources
+https://CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports 
+Motivation and other data source
+https://github.com/covidgraph/case_data
