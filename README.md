@@ -14,7 +14,7 @@ This Repository will be used to maintain/ aware people about KG for Covid-19
 #### Neo4j (My First Graph Database Love!)
 #### Python (Flask)
 
-# Graph Model
+# Future Graph Model
 
 <img src= "https://github.com/Siraj1munir/KG_to_the_rescue_covid-19/blob/master/Graph_model_for_KG_NEO4j_Update.jpg">
 
@@ -49,5 +49,6 @@ MATCH (n:Location) WHERE n.Location_Name= "Pakistan" AND n.date= "2020-03-20" RE
 
 # Data Sources
 https://CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports 
+
 Motivation and other data source
 https://github.com/covidgraph/case_data
