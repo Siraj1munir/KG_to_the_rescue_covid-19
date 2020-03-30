@@ -49,7 +49,7 @@ MATCH (n:Location) WHERE n.Location_Name= "Pakistan" AND n.date= "2020-03-20" RE
 # What this update includes:
 <ul><li> A simple query engine i.e. Keyword based till now! </li>
   <li> You can have one click reponse of aforementioned Queries! </li>
-  <li> How to use it. Simply visit you localhost:5000/covid_kg</li>
+  <li> How to use it. If you know flask then simply boost up Neo4j Database and visit you localhost:5000/covid_kg</li>
 </ul>
 
 # What's Left:
