@@ -54,7 +54,7 @@ MATCH (n:Location) WHERE n.Location_Name= "Pakistan" AND n.date= "2020-03-20" RE
 
 # What's Left:
 
-<p>My answer is simple alot of imporvement are required to be done! but as I thought initially this is a great start!</p>
+<p>My answer is simple alot of improvement are required to be done! but as I thought initially this is a great start!</p>
 
 # Data Sources
 https://CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports 
